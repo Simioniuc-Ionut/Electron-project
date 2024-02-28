@@ -1,0 +1,4 @@
+C:\Users\simio\OneDrive\Documents\Facultate\Elecctron\meniu\x64\Debug\meniu.exe
+C:\Users\simio\OneDrive\Documents\Facultate\Elecctron\copy_meniu\meniu\x64\Debug\meniu.exe
+C:\Users\simio\OneDrive\Documents\Facultate\Proiect\x64\Debug\meniu.exe
+C:\Users\simio\OneDrive\Documents\Facultate\Sem1\Proiect\x64\Debug\meniu.exe
