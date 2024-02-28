@@ -1,1 +1,1 @@
-# Electron-project
+Electron is a software program designed to assist users in configuring their own electronic circuit diagrams. With Electron, you can create new projects, save them, and edit previously saved diagrams. We have implemented features such as Undo, Redo, Zoom In, Zoom Out, rotations, real-time drawing of links between components, and the ability to edit specific attributes of components on the diagram. 
